@@ -8,9 +8,11 @@ Feeling very elevated for taking KubeWeek challenge. Its great opportunity to ch
 Glad to share my learnings with all.
 Please check my blogs. 
 
-Day 1 :https://savitashelar.hashnode.dev/kubernetes-installation-and-architecture
+Day 1 : Kubernetes Architecture ,components it's installation and configuration
+  Link: https://savitashelar.hashnode.dev/kubernetes-installation-and-architecture
 
-Day 2 :  https://savitashelar.hashnode.dev/kubernetes-networking
+Day 2 :Kubernetes Networking (Services, Ingress, Network Policies , DNS, CNI Plugins)
+  Link: https://savitashelar.hashnode.dev/kubernetes-networking
 
 
 Wish you all Happy Learning.
