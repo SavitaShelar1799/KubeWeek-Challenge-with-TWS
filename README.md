@@ -20,5 +20,10 @@ Please check my blogs.
 
 - Link :- [Visit The Blog Here](https://savitashelar.hashnode.dev/kubernetes-workloads-deployments-jobs-cronjob-etc)
 
+### Day 4 :kubernetes services and service discovery
+
+- Link :- [Visit The Blog Here](https://savitashelar.hashnode.dev/kubernetes-services-and-service-discovery)
+
+
 
 Wish you all Happy Learning.
