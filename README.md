@@ -16,5 +16,9 @@ Please check my blogs.
 
 - Link :- [Visit The Blog Here](https://savitashelar.hashnode.dev/kubernetes-networking)
 
+### Day 3 :Kubernetes Workloads (Deployments, Job, CronJob)
+
+- Link :- [Visit The Blog Here](https://savitashelar.hashnode.dev/kubernetes-workloads-deployments-jobs-cronjob-etc)
+
 
 Wish you all Happy Learning.
